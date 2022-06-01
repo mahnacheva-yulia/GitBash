@@ -1,0 +1,12 @@
+ID: 
+Summary: 
+Description: 
+             Воспроизведено в 
+             Фактический результат: 
+            Ожидаемый результат:
+Steps:      
+Severity:
+Priority:
+Reproducibility:
+Comments:
+Attachments:
