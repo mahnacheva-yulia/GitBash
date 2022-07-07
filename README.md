@@ -1,2 +1,3 @@
 # GitBash
-homeworks 1,2 gitBash
+выполнение дз по веткам GitHUb
+
